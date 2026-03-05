@@ -1,0 +1,15 @@
+.bg1 {
+  background:
+    url(/public/vector1.png), url(/public/vector2.png),
+    linear-gradient(125.04deg, #632ee3 5.68%, #9f62f2 88.38%);
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-position: left, right, center;
+}
+
+.bg2 {
+  background:
+    url(/public/vector1.png), url(/public/vector2.png),
+    linear-gradient(90deg, #54cf68 9.6%, #00827a 92.23%);
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-position: left, right, center;
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 3001,
+    "title": "Login not working",
+    "description": "User unable to login with correct credentials.\nUser reports receiving an invalid session error.\nIssue started after the latest system update.",
+    "customer": "Rahim Ahmed",
+    "priority": "High Priority",
+    "status": "Open",
+    "createdAt": "2026-03-01T09:15:00Z"
+  },
+  {
+    "id": 3002,
+    "title": "Password reset issue",
+    "description": "Password reset email not received.\nUser checked spam folder but found nothing.\nAttempted multiple reset requests without success.",
+    "customer": "Nusrat Jahan",
+    "priority": "Medium Priority",
+    "status": "In-Progress",
+    "createdAt": "2026-03-01T11:20:00Z"
+  },
+  {
+    "id": 3003,
+    "title": "Payment failed",
+    "description": "Transaction declined but money deducted.\nBank confirms the payment was processed.\nUser is requesting immediate refund or clarification.",
+    "customer": "Karim Uddin",
+    "priority": "High Priority",
+    "status": "Open",
+    "createdAt": "2026-03-02T08:45:00Z"
+  },
+  {
+    "id": 3004,
+    "title": "Website loading slow",
+    "description": "Homepage takes more than 10 seconds to load.\nIssue mostly occurs during peak hours.\nUser reports occasional timeout errors.",
+    "customer": "Tania Sultana",
+    "priority": "Low Priority",
+    "status": "In-Progress",
+    "createdAt": "2026-03-02T10:10:00Z"
+  },
+  {
+    "id": 3005,
+    "title": "Error 500 on dashboard",
+    "description": "Internal server error when accessing dashboard.\nError appears after clicking analytics section.\nClearing cache did not resolve the issue.",
+    "customer": "Sabbir Hossain",
+    "priority": "High Priority",
+    "status": "In-Progress",
+    "createdAt": "2026-03-02T14:25:00Z"
+  },
+  {
+    "id": 3006,
+    "title": "Unable to upload file",
+    "description": "File upload fails for PDF documents.\nOther file formats seem to work correctly.\nUser receives size limit warning despite small file.",
+    "customer": "Mitu Akter",
+    "priority": "Medium Priority",
+    "status": "Open",
+    "createdAt": "2026-03-02T16:00:00Z"
+  },
+  {
+    "id": 3007,
+    "title": "Account suspended unexpectedly",
+    "description": "Account blocked without notification.\nUser claims no policy violation occurred.\nRequesting urgent review of account status.",
+    "customer": "Jahid Hasan",
+    "priority": "High Priority",
+    "status": "Open",
+    "createdAt": "2026-03-03T07:30:00Z"
+  },
+  {
+    "id": 3008,
+    "title": "Profile picture not updating",
+    "description": "New profile image does not save.\nPage refresh resets to old image.\nUser tried multiple browsers with same result.",
+    "customer": "Farzana Rahman",
+    "priority": "Low Priority",
+    "status": "In-Progress",
+    "createdAt": "2026-03-03T09:00:00Z"
+  },
+  {
+    "id": 3009,
+    "title": "Notification emails delayed",
+    "description": "Emails are received 1 hour late.\nDelay affects password resets and alerts.\nIssue started after server migration.",
+    "customer": "Imran Chowdhury",
+    "priority": "Medium Priority",
+    "status": "In-Progress",
+    "createdAt": "2026-03-03T10:45:00Z"
+  },
+  {
+    "id": 3010,
+    "title": "App crashes on startup",
+    "description": "Mobile app crashes immediately after opening.\nOccurs on Android version 13 devices.\nUser reinstalled the app but issue persists.",
+    "customer": "Shila Begum",
+    "priority": "High Priority",
+    "status": "Open",
+    "createdAt": "2026-03-03T12:10:00Z"
+  },
+  {
+    "id": 3011,
+    "title": "Incorrect billing amount",
+    "description": "Invoice shows incorrect subscription charge.\nUser charged for premium plan unexpectedly.\nRequesting billing adjustment and explanation.",
+    "customer": "Rashed Khan",
+    "priority": "High Priority",
+    "status": "In-Progress",
+    "createdAt": "2026-03-03T13:30:00Z"
+  },
+  {
+    "id": 3012,
+    "title": "Search feature not returning results",
+    "description": "Search returns empty results for valid keywords.\nIssue occurs with specific category filters.\nUser reports feature worked previously.",
+    "customer": "Sadia Islam",
+    "priority": "Medium Priority",
+    "status": "Open",
+    "createdAt": "2026-03-03T15:00:00Z"
+  },
+  {
+    "id": 3013,
+    "title": "Two-factor authentication issue",
+    "description": "OTP code not working during login.\nUser receives code but it expires instantly.\nMultiple login attempts locked the account temporarily.",
+    "customer": "Anik Roy",
+    "priority": "High Priority",
+    "status": "In-Progress",
+    "createdAt": "2026-03-03T16:40:00Z"
+  },
+  {
+    "id": 3014,
+    "title": "Language translation error",
+    "description": "Some texts not properly translated.\nCertain buttons remain in English.\nUser reports issue on mobile version only.",
+    "customer": "Mariam Akhter",
+    "priority": "Low Priority",
+    "status": "Open",
+    "createdAt": "2026-03-03T18:05:00Z"
+  },
+  {
+    "id": 3015,
+    "title": "Subscription cancellation problem",
+    "description": "Unable to cancel subscription from settings.\nCancel button appears disabled.\nUser concerned about next billing cycle charge.",
+    "customer": "Arif Mahmud",
+    "priority": "Medium Priority",
+    "status": "In-Progress",
+    "createdAt": "2026-03-04T08:20:00Z"
+  },
+  {
+    "id": 3016,
+    "title": "Dashboard data not updating",
+    "description": "Dashboard statistics are not refreshing automatically.\nUser sees outdated analytics from previous day.\nManual refresh temporarily fixes the issue.",
+    "customer": "Tanvir Alam",
+    "priority": "High Priority",
+    "status": "Open",
+    "createdAt": "2026-03-04T10:15:00Z"
+  }
+]
